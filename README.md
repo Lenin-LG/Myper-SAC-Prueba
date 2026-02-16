@@ -67,7 +67,7 @@ Construir y levantar contenedores:
 docker compose up -d --build
 🌐 Acceso a la Aplicación
 Una vez iniciado:
-http://localhost:5000
+http://localhost:5000/swagger/index.html
 👉 Aplicación Web:
 
 http://localhost:5050
