@@ -1,0 +1,91 @@
+﻿@model List<Trabajadores.Web.Models.WorkerViewModel>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="container mt-4">
+
+    <h2 class="mb-3">Trabajadores</h2>
+
+    <div class="d-flex justify-content-between mb-3">
+
+        <a class="btn btn-success"
+           asp-controller="Workers"
+           asp-action="Create">
+            + Nuevo trabajador
+        </a>
+
+        <form method="get" asp-action="Index">
+
+            <select name="gender" class="form-select" onchange="this.form.submit()">
+
+                <option value="" selected="@(string.IsNullOrEmpty(Context.Request.Query["gender"]) ? "selected" : null)">
+                    Todos
+                </option>
+
+                <option value="1" selected="@(Context.Request.Query["gender"] == "1" ? "selected" : null)">
+                    Masculino
+                </option>
+
+                <option value="2" selected="@(Context.Request.Query["gender"] == "2" ? "selected" : null)">
+                    Femenino
+                </option>
+
+            </select>
+
+
+        </form>
+
+
+    </div>
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Documento</th>
+                <th>Sexo</th>
+                <th>Dirección</th>
+                <th width="180">Acciones</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var w in Model)
+            {
+                <tr class="@(w.Gender == 1 ? "table-primary" : "table-warning")">
+
+                    <td>@w.FirstName @w.LastName</td>
+                    <td>@w.DocumentNumber</td>
+                    <td>@(w.Gender == 1 ? "Masculino" : "Femenino")</td>
+                    <td>@w.Address</td>
+                    <td>
+
+                        <a class="btn btn-warning btn-sm"
+                           asp-action="Edit"
+                           asp-route-id="@w.Id">
+                            Editar
+                        </a>
+
+                        <a class="btn btn-danger btn-sm"
+                           asp-action="Delete"
+                           asp-route-id="@w.Id"
+                           onclick="return confirm('¿Eliminar trabajador?')">
+                            Eliminar
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>

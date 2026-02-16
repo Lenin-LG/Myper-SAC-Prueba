@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Trabajadores.Web/Trabajadores.Web.csproj" Id="14d625ec-605b-43ce-a210-f5c7bf769e5f" />
+  <Project Path="Trabajadores/Trabajadores.csproj" />
+  <Project Path="TrabjadoresTest/TrabjadoresTest.csproj" />
+</Solution>

@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\views\\workers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\views\\workers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\views\\workers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\services\\workerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\services\\workerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\models\\workerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\models\\workerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\controllers\\workerscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\controllers\\workerscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\trabajadores.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\trabajadores.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\trabajadores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\trabajadores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabjadorestest\\workerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|solutionrelative:trabjadorestest\\workerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabjadorestest\\fakestorage .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|solutionrelative:trabjadorestest\\fakestorage .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabjadorestest\\fakerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|solutionrelative:trabjadorestest\\fakerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\migrations\\20260216025655_addstoredprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\migrations\\20260216025655_addstoredprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\migrations\\20260216025636_initialclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\migrations\\20260216025636_initialclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\domain\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\domain\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\domain\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\domain\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\infrastructure\\repositories\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\infrastructure\\repositories\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\infrastructure\\repositories\\fakecloudstorage .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\infrastructure\\repositories\\fakecloudstorage .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\infrastructure\\persistence\\workerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\infrastructure\\persistence\\workerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\application\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\application\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\application\\dtos\\workerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\application\\dtos\\workerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\application\\dtos\\updateworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\application\\dtos\\updateworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\application\\dtos\\createworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\application\\dtos\\createworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores.web\\trabajadores.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{14D625EC-605B-43CE-A210-F5C7BF769E5F}|Trabajadores.Web\\Trabajadores.Web.csproj|solutionrelative:trabajadores.web\\trabajadores.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\domain\\ports\\out\\iworkerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\domain\\ports\\out\\iworkerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\domain\\ports\\out\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\domain\\ports\\out\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabjadorestest\\trabjadorestest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF7A7CAE-294D-981E-37E3-27679338BEDE}|TrabjadoresTest\\TrabjadoresTest.csproj|solutionrelative:trabjadorestest\\trabjadorestest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|c:\\users\\laura\\onedrive\\documentos\\nuevo one drive\\onedrive\\documentos\\c\\mantenimientotrabajadores\\trabajadores\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{033ADEB8-84BE-E787-48D4-AD48BB183836}|Trabajadores\\Trabajadores.csproj|solutionrelative:trabajadores\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\Workers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Views\\Workers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\Workers\\Index.cshtml",
+              "RelativeToolTip": "Trabajadores.Web\\Views\\Workers\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwFoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T03:58:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerApiService.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Services\\WorkerApiService.cs",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Services\\WorkerApiService.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Services\\WorkerApiService.cs",
+              "RelativeToolTip": "Trabajadores.Web\\Services\\WorkerApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:55:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trabajadores.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Trabajadores.Web.csproj",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Trabajadores.Web.csproj",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Trabajadores.Web.csproj",
+              "RelativeToolTip": "Trabajadores.Web\\Trabajadores.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T03:54:52.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkersController .cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Controllers\\WorkersController .cs",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Controllers\\WorkersController .cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Controllers\\WorkersController .cs",
+              "RelativeToolTip": "Trabajadores.Web\\Controllers\\WorkersController .cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:56:24.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Models\\WorkerViewModel.cs",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Models\\WorkerViewModel.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Models\\WorkerViewModel.cs",
+              "RelativeToolTip": "Trabajadores.Web\\Models\\WorkerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:55:04.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Program.cs",
+              "RelativeToolTip": "Trabajadores.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:55:47.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\Workers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Views\\Workers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\Workers\\Edit.cshtml",
+              "RelativeToolTip": "Trabajadores.Web\\Views\\Workers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T05:02:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\Workers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Views\\Workers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\Workers\\Create.cshtml",
+              "RelativeToolTip": "Trabajadores.Web\\Views\\Workers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T03:58:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "Trabajadores\\Controllers\\WorkersController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:00:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Trabajadores.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T05:41:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trabajadores.csproj",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Trabajadores.csproj",
+              "RelativeDocumentMoniker": "Trabajadores\\Trabajadores.csproj",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Trabajadores.csproj",
+              "RelativeToolTip": "Trabajadores\\Trabajadores.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-15T20:54:38.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Program.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Program.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Program.cs",
+              "RelativeToolTip": "Trabajadores\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:59:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\WorkerServiceTests.cs",
+              "RelativeDocumentMoniker": "TrabjadoresTest\\WorkerServiceTests.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\WorkerServiceTests.cs",
+              "RelativeToolTip": "TrabjadoresTest\\WorkerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:02:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FakeStorage .cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\FakeStorage .cs",
+              "RelativeDocumentMoniker": "TrabjadoresTest\\FakeStorage .cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\FakeStorage .cs",
+              "RelativeToolTip": "TrabjadoresTest\\FakeStorage .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:43:07.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FakeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\FakeRepo.cs",
+              "RelativeDocumentMoniker": "TrabjadoresTest\\FakeRepo.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\FakeRepo.cs",
+              "RelativeToolTip": "TrabjadoresTest\\FakeRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:02:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260216025655_AddStoredProcedures.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Migrations\\20260216025655_AddStoredProcedures.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Migrations\\20260216025655_AddStoredProcedures.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Migrations\\20260216025655_AddStoredProcedures.cs",
+              "RelativeToolTip": "Trabajadores\\Migrations\\20260216025655_AddStoredProcedures.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:56:55.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260216025636_InitialClean.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Migrations\\20260216025636_InitialClean.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Migrations\\20260216025636_InitialClean.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Migrations\\20260216025636_InitialClean.cs",
+              "RelativeToolTip": "Trabajadores\\Migrations\\20260216025636_InitialClean.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:56:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "Trabajadores\\Domain\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:17:23.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Enums\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Domain\\Enums\\DocumentType.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Enums\\DocumentType.cs",
+              "RelativeToolTip": "Trabajadores\\Domain\\Enums\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:17:36.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Domain\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Entities\\Worker.cs",
+              "RelativeToolTip": "Trabajadores\\Domain\\Entities\\Worker.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:54:59.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Infrastructure\\Repositories\\WorkerRepository.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Infrastructure\\Repositories\\WorkerRepository.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Infrastructure\\Repositories\\WorkerRepository.cs",
+              "RelativeToolTip": "Trabajadores\\Infrastructure\\Repositories\\WorkerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:59:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FakeCloudStorage .cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Infrastructure\\Repositories\\FakeCloudStorage .cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Infrastructure\\Repositories\\FakeCloudStorage .cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Infrastructure\\Repositories\\FakeCloudStorage .cs",
+              "RelativeToolTip": "Trabajadores\\Infrastructure\\Repositories\\FakeCloudStorage .cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:01:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WorkerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Infrastructure\\Persistence\\WorkerDbContext.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Infrastructure\\Persistence\\WorkerDbContext.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Infrastructure\\Persistence\\WorkerDbContext.cs",
+              "RelativeToolTip": "Trabajadores\\Infrastructure\\Persistence\\WorkerDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:57:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\Services\\WorkerService.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Application\\Services\\WorkerService.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\Services\\WorkerService.cs",
+              "RelativeToolTip": "Trabajadores\\Application\\Services\\WorkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:56:58.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkerDto.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\DTOs\\WorkerDto.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Application\\DTOs\\WorkerDto.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\DTOs\\WorkerDto.cs",
+              "RelativeToolTip": "Trabajadores\\Application\\DTOs\\WorkerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:25:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateWorkerDto.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\DTOs\\UpdateWorkerDto.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Application\\DTOs\\UpdateWorkerDto.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\DTOs\\UpdateWorkerDto.cs",
+              "RelativeToolTip": "Trabajadores\\Application\\DTOs\\UpdateWorkerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:25:50.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateWorkerDto.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\DTOs\\CreateWorkerDto.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Application\\DTOs\\CreateWorkerDto.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Application\\DTOs\\CreateWorkerDto.cs",
+              "RelativeToolTip": "Trabajadores\\Application\\DTOs\\CreateWorkerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:56:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Trabajadores.Web",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Trabajadores.Web.csproj",
+              "RelativeDocumentMoniker": "Trabajadores.Web\\Trabajadores.Web.csproj",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores.Web\\Trabajadores.Web.csproj",
+              "RelativeToolTip": "Trabajadores.Web\\Trabajadores.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T04:11:49.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IWorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Ports\\out\\IWorkerRepository.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Domain\\Ports\\out\\IWorkerRepository.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Ports\\out\\IWorkerRepository.cs",
+              "RelativeToolTip": "Trabajadores\\Domain\\Ports\\out\\IWorkerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:55:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Ports\\out\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\Domain\\Ports\\out\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\Domain\\Ports\\out\\IFileStorage.cs",
+              "RelativeToolTip": "Trabajadores\\Domain\\Ports\\out\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:00:18.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrabjadoresTest.csproj",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\TrabjadoresTest.csproj",
+              "RelativeDocumentMoniker": "TrabjadoresTest\\TrabjadoresTest.csproj",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\TrabjadoresTest\\TrabjadoresTest.csproj",
+              "RelativeToolTip": "TrabjadoresTest\\TrabjadoresTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-15T21:02:04.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\appsettings.json",
+              "RelativeDocumentMoniker": "Trabajadores\\appsettings.json",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\appsettings.json",
+              "RelativeToolTip": "Trabajadores\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-15T21:59:44.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Trabajadores\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive\\Documentos\\Nuevo one Drive\\OneDrive\\Documentos\\c\\MantenimientoTrabajadores\\Trabajadores\\WeatherForecast.cs",
+              "RelativeToolTip": "Trabajadores\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:54:27.45Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
